@@ -1,0 +1,21 @@
+{
+  "version": "1.0",
+  "photosDir": "D:\\桌面\\用AI干一件大事\\项目一\\travel record\\photos",
+  "defaultColor": "#F7D6E0",
+  "records": [
+    {
+      "cityName": "重庆",
+      "cityCode": "500000",
+      "provinceName": "重庆市",
+      "provinceCode": "500000",
+      "color": "#F7D6E0",
+      "lat": 29.544030115872108,
+      "lng": 106.48956064254766,
+      "checkinDate": "2026-07-16",
+      "note": {
+        "text": "",
+        "images": []
+      }
+    }
+  ]
+}
